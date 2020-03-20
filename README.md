@@ -1,4 +1,4 @@
-# SRWkshp1a: Learning (Machine) Drug Function Using Molecular Structures
+# Repurposing Therapeutics for COVID-19: Small molecule compounds for disrupting virus-host interactions. 
 **S.Ravichandran**
 
 Click Binder link below to begin the tutorial. 
