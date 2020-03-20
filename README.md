@@ -1,5 +1,4 @@
-# Repurposing Therapeutics for COVID-19: Small molecule compounds for disrupting virus-host interactions. 
-**S.Ravichandran**
+# Repurposing Therapeutics for COVID-19: Small molecule compounds identified by Drs. Smith & Smith for disrupting virus-host interactions. 
 
 Click Binder link below to begin the tutorial. 
 
